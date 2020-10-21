@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/bowling-page/static/css/main.df806b13.chunk.css",
+    "main.js": "/bowling-page/static/js/main.2cb83967.chunk.js",
+    "main.js.map": "/bowling-page/static/js/main.2cb83967.chunk.js.map",
+    "runtime-main.js": "/bowling-page/static/js/runtime-main.f513686d.js",
+    "runtime-main.js.map": "/bowling-page/static/js/runtime-main.f513686d.js.map",
+    "static/js/2.f3a08b19.chunk.js": "/bowling-page/static/js/2.f3a08b19.chunk.js",
+    "static/js/2.f3a08b19.chunk.js.map": "/bowling-page/static/js/2.f3a08b19.chunk.js.map",
+    "index.html": "/bowling-page/index.html",
+    "precache-manifest.d9542fae9533bc593d6d850ab614a33f.js": "/bowling-page/precache-manifest.d9542fae9533bc593d6d850ab614a33f.js",
+    "service-worker.js": "/bowling-page/service-worker.js",
+    "static/css/main.df806b13.chunk.css.map": "/bowling-page/static/css/main.df806b13.chunk.css.map",
+    "static/js/2.f3a08b19.chunk.js.LICENSE.txt": "/bowling-page/static/js/2.f3a08b19.chunk.js.LICENSE.txt",
+    "static/media/arrow.d7b6263d.svg": "/bowling-page/static/media/arrow.d7b6263d.svg",
+    "static/media/billard.svg": "/bowling-page/static/media/billard.e971ae77.svg",
+    "static/media/bowling.svg": "/bowling-page/static/media/bowling.4716bf95.svg",
+    "static/media/drink_2.png": "/bowling-page/static/media/drink_2.ce4d1e64.png",
+    "static/media/facebook.svg": "/bowling-page/static/media/facebook.a51cb768.svg",
+    "static/media/galleryImage1.png": "/bowling-page/static/media/galleryImage1.d0da3183.png",
+    "static/media/galleryImage2.png": "/bowling-page/static/media/galleryImage2.8e32bd5c.png",
+    "static/media/galleryImage3.png": "/bowling-page/static/media/galleryImage3.406c1765.png",
+    "static/media/galleryImage4.png": "/bowling-page/static/media/galleryImage4.468b82d9.png",
+    "static/media/galleryImage5.jpg": "/bowling-page/static/media/galleryImage5.881dfef1.jpg",
+    "static/media/galleryImage6.png": "/bowling-page/static/media/galleryImage6.4452dc44.png",
+    "static/media/google_maps.svg": "/bowling-page/static/media/google_maps.bee4bf5d.svg",
+    "static/media/header-section.scss": "/bowling-page/static/media/header.15d86713.jpg",
+    "static/media/mail.svg": "/bowling-page/static/media/mail.fa94d44b.svg",
+    "static/media/paralax_1.png": "/bowling-page/static/media/paralax_1.4452dc44.png",
+    "static/media/paralax_2.jpg": "/bowling-page/static/media/paralax_2.22911239.jpg",
+    "static/media/paralax_3.jpg": "/bowling-page/static/media/paralax_3.881dfef1.jpg",
+    "static/media/phone.svg": "/bowling-page/static/media/phone.ff09e6f9.svg",
+    "static/media/phone_footer.svg": "/bowling-page/static/media/phone_footer.04718cb8.svg",
+    "static/media/price.svg": "/bowling-page/static/media/price.e6f59738.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f513686d.js",
+    "static/js/2.f3a08b19.chunk.js",
+    "static/css/main.df806b13.chunk.css",
+    "static/js/main.2cb83967.chunk.js"
+  ]
+}
